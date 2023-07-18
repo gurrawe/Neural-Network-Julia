@@ -16,17 +16,5 @@ submitted in the repo. The structure of the file looks like this:
 The program can not handle if the parameter file is wrongly inputted. Either if the number of 
 neurons in the first layer is set to a different number then the input data.
 
-Example:
-NeuralNet
-0.15
-turbine.txt
-1
-500
-0.2
-0.5
-4
-4
-8
-12
-1
+
  
